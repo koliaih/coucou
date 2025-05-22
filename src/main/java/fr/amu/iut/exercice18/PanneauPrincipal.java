@@ -1,4 +1,4 @@
-package fr.umontpellier.iut.exercice2;
+package fr.amu.iut.exercice18;
 
 import javafx.fxml.FXML;
 import javafx.fxml.FXMLLoader;

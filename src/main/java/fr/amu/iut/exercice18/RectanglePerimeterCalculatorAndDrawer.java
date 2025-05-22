@@ -1,4 +1,4 @@
-package fr.umontpellier.iut.exercice2;
+package fr.amu.iut.exercice18;
 
 import javafx.application.Application;
 import javafx.scene.Scene;
